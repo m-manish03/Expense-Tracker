@@ -2,7 +2,7 @@
 
 An easy-to-use web application for tracking your expenses. This project allows users to add, view, and delete expenses, with the total expenses displayed prominently.
 
-![Expense Tracker Logo](./images/icon.png)
+![Expense Tracker Logo](./images/logo.svg)
 
 ## Features
 
