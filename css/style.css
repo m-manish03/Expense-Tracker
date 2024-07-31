@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(109.8deg, rgb(238, 9, 121) 42.8%, rgb(255, 106, 0) 83.3%);
+}
+
+section {
+  display: inline-block;
+  margin: 0rem 42rem;
+  font-size: large;
+  border-radius: 0.5rem;
+}
+
+.container {
+  margin: 1rem 7%;
+}
+
+.img-fluid {
+  max-width: 20%;
+  height: auto;
+}
+
+.bg-dark {
+  background-color: #343a40;
+  padding: 1rem;
+}
