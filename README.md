@@ -26,6 +26,7 @@ An easy-to-use web application for tracking your expenses. This project allows u
 5. The total expenses are displayed at the bottom of the page.
 
 ## File Structure
+```
 ├── css
 │ └── style.css
 ├── images
@@ -35,7 +36,7 @@ An easy-to-use web application for tracking your expenses. This project allows u
 │ └── app.js
 ├── index.html
 └── README.md
-
+```
 
 ## Contributing
 
